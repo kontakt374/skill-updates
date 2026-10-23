@@ -1,0 +1,5 @@
+{
+  "name": "skill-updates",
+  "version": "1.0.0",
+  "description": "Prüft auf Zuruf, ob für installierte Plugin-Skills neuere Versionen vorliegen, und installiert gefundene Updates nach Bestätigung. Cross-platform, ohne Zusatzinstallation."
+}

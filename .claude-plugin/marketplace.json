@@ -1,0 +1,17 @@
+{
+  "name": "skill-updates",
+  "owner": {
+    "name": "Naturheilpraxis Empl"
+  },
+  "metadata": {
+    "description": "Prüft auf Zuruf, ob installierte Claude-Code-Skills aktuell sind, und installiert Updates nach Bestätigung.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-updates",
+      "description": "Prüft auf Zuruf, ob für installierte Plugin-Skills neuere Versionen vorliegen, und installiert gefundene Updates nach Bestätigung. Cross-platform, ohne Zusatzinstallation.",
+      "source": "./"
+    }
+  ]
+}
